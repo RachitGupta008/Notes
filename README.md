@@ -8,3 +8,7 @@ So that one doesn't forget the important things.
 <code>node app.js help
 
 for getting the command list for the application.
+
+<i> Feel free to tweak it based upon your need.
+  
+# NOTE : Node js should be installed on the system for this to work.
