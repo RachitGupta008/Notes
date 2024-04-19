@@ -62,7 +62,7 @@ var printMessage = (note, heading, errormessage) => {
   if (note) {
     console.log("\n",heading);
     console.log("\n Title:", note.title);
-    console.log("=================================\n Body:", note.body);
+    console.log("===============================\n Body:", note.body);
   } else {
     console.log(errormessage);
   }
