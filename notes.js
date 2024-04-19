@@ -1,5 +1,4 @@
 const fs = require('fs');
-
 var fetchNotes = () => {
   try {
     var noteData = fs.readFileSync("notes-data.json");
